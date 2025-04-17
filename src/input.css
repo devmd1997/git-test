@@ -5,3 +5,11 @@
     --slate-500: hsl(216, 15%, 48%);
     --slate-900: hsl(218, 44%, 22%);
 }
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('https://fonts.google.com/specimen/Outfit');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
